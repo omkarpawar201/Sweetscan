@@ -1,4 +1,4 @@
-# Watermelon Classification
+# Sweetscan : Watermelon Classification
 
 ## Overview
 
